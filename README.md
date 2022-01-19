@@ -8,7 +8,7 @@ Checkout my [website](https://www.jareddyreson.xyz) for live demos of applicatio
 
 ### Table of Contents
 
-I have split my repositories based on topics, please feel free to look around
+I have split my repositories based on topics into separate organization, please feel free to look around
 
 - [Algorithms](https://github.com/JaredsAlgorithms/)
 - [Compilers and Language Design](https://github.com/JaredsCompiler)
