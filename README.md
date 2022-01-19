@@ -14,7 +14,7 @@ I have split my repositories based on topics, please feel free to look around
 - [Compilers and Language Design](https://github.com/JaredsCompiler)
 - [Music](https://github.com/JaredsMusicTools)
 - [Linux Tools](https://github.com/JaredsLinux)
-		* [Thin Mint](https://github.com/JaredDyreson/Thin-Mint)
+		- [Thin Mint](https://github.com/JaredDyreson/Thin-Mint)
 - [Games](https://github.com/JaredsGames/)
 - [Operating System](https://github.com/JaredsOSToolbox)
 - [Web Applications](https://github.com/JaredsWebApplications)
