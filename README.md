@@ -12,13 +12,3 @@ Rust, Python, C, C++, Bash
 
 ### Infrastructure
 Ansible, AWS, Docker, GCP, GitHub Actions, Proxmox, Terraform
-
-### Highlighted Repos
-- [proxmox-autoinstaller](https://github.com/JaredDyreson/proxmox-autoinstaller) — automates Ubuntu Server installs in Proxmox
-- [funnel-rs](https://github.com/JaredDyreson/funnel-rs) — Rust rewrite of a Spotify playlist manager
-- [octoclone](https://github.com/JaredDyreson/octoclone) — Firefox extension that prepends `git clone` to repo URLs
-
-### Organizations
-- [Algorithms](https://github.com/JaredsAlgorithms/)
-- [Compilers and Language Design](https://github.com/JaredsCompiler)
-- [Linux Tools](https://github.com/JaredsLinux)
